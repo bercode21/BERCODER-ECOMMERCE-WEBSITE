@@ -2,14 +2,11 @@
 
 
 
-Bercoder is a fully responsive ecommerce Sitio web, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
-
+Bercoder es un sitio web de comercio electrónico totalmente receptivo, máxima compatibilidad en todos los dispositivos móviles, construido con HTML, CSS y JavaScript.
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Desktop Demo](./demo-img/desktop.png "Desktop Demo")
 
-
-## Installing Anon
 
 To install **BERCODER**, follow these steps:
 
